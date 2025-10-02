@@ -57,15 +57,8 @@
                 title: "B. Physical Characteristics and Their Impact",
                 content: `
                     <h4>Stature and Presence</h4>
-                    <p>Despite standing only 5 feet 3 inches tall, Rizal possessed a commanding presence through his confidence
-                     and intellectual bearing. His physical limitations may have directed his energies toward intellectual 
-                     rather than military pursuits.</p>
-                    
-                       <h4>Health and Medical Practice</h4>
-                <p>Rizal's awareness of physical health deepened his commitment to medicine. During his exile in Dapitan, 
-                he practiced as a doctor, rendering free services to the poor and providing medicines which he concocted
-                 from his knowledge of the curative value of local medicinal plants. His wealthier patients came from other 
-                 parts of Mindanao, Laguna, Cebu, Panay, Negros, and even from Hong Kong.</p>
+                    <p>Despite standing only 5 feet 3 inches tall, Rizal possessed a commanding presence through his confidence. 
+                    His physical limitations may have directed his energies toward intellectual pursuits.</p>
                 
                 <h4>Mother's Surgery</h4>
                 <p>In Calamba during his first homecoming (1887), Doña Teodora became his first patient when he opened a 
@@ -82,7 +75,6 @@
             }
         ];
 
-        // SECTION III: ENVIRONMENTAL FACTORS
         // SECTION III: ENVIRONMENTAL FACTORS
 const environmentalData = [
     {
@@ -163,7 +155,7 @@ const environmentalData = [
             <p>Rizal witnessed firsthand the abuses of Spanish friars and civil authorities: arbitrary arrests, 
             land grabbing, discrimination against native Filipinos, and denial of civil liberties.</p>
         `,
-        image: "src/1112.webp",
+        image: "src/gomburza.jpg",
         stamp: "GOMBURZA"
     },
     {
@@ -193,7 +185,7 @@ const environmentalData = [
             <p>In 1874, Rizal wrote "Mi Primera Inspiracion" (My First Inspiration), his first poem dedicated 
             to Doña Teodora on his birthday after her release from prison.</p>
         `,
-        image: "src/rizal_binan.jpg",
+        image: "src/rizal_ateneo.jpg",
         stamp: "ATENEO"
     },
     {
@@ -222,7 +214,7 @@ const environmentalData = [
             racial discrimination and antiquated teaching methods frustrated him, motivating his eventual departure 
             for Europe.</p>
         `,
-        image: "src/rizal_binan.jpg",
+        image: "src/ust.jpg",
         stamp: "UST"
     }
 ];
@@ -262,7 +254,7 @@ const experiencesData = [
             Laon-Laang. Published in Diariong Tagalog on August 20, 1882, it caused a sensation in the Philippines 
             as it urged compatriots to love their motherland.</p>
         `,
-        image: "src/Germany_1880.jpg",
+        image: "src/rizal_barcelona.avif",
         stamp: "BARCELONA"
     },
     {
@@ -292,7 +284,7 @@ const experiencesData = [
             a violent demonstration supporting Dr. Miguel Morayta, the university rector condemned by Catholic 
             bishops for his liberal views on science and education.</p>
         `,
-        image: "src/Germany_1880.jpg",
+        image: "src/rizal_madrid.jpg",
         stamp: "MADRID"
     },
     {
@@ -311,7 +303,7 @@ const experiencesData = [
             <p>Rizal posed as the Egyptian priest in Juan Luna's painting "The Death of Cleopatra" and as 
             Sikatuna in "The Blood Compact."</p>
         `,
-        image: "src/Germany_1880.jpg",
+        image: "src/rizal_optomery.jpeg",
         stamp: "PARIS"
     },
     {
@@ -379,7 +371,7 @@ const experiencesData = [
             the ire of the friars.</p>
         `,
         image: "src/rizal_travels.png",
-        stamp: "HOMECOMING1"
+        stamp: "1ST HOMECOMING"
     },
     {
         date: "February 3, 1888",
@@ -408,7 +400,7 @@ const experiencesData = [
             <p>On April 13, 1888, Rizal left Yokohama aboard the Belgic for the United States. He acted as 
             interpreter for fellow passenger Tetcho Suehiro, a Japanese novelist and human rights champion.</p>
         `,
-        image: "src/rizal_travels.png",
+        image: "src/rizal_japan.jpg",
         stamp: "ASIA"
     },
     {
@@ -430,7 +422,7 @@ const experiencesData = [
             He observed discrimination against Chinese and Negroes, noting "America is the land par excellence 
             of freedom but only for the whites."</p>
         `,
-        image: "src/rizal_travels.png",
+        image: "src/rizal_america.webp",
         stamp: "AMERICA"
     },
     {
@@ -450,7 +442,7 @@ const experiencesData = [
             <p>He briefly stayed with Antonio Ma. Regidor, a Filipino lawyer exiled after the 1872 GOMBURZA 
             martyrdom, then transferred to 37 Charlotte Crescent St., Primrose Hill.</p>
         `,
-        image: "src/rizal_travels.png",
+        image: "src/rizal_londonhouse.png",
         stamp: "LONDON"
     },
     {
@@ -476,7 +468,7 @@ const experiencesData = [
             <p>Rizal conceived opening a modern Filipino college in Hong Kong. Mariano Cunanan promised to help 
             raise P40,000 as initial capital, but the project did not materialize.</p>
         `,
-        image: "src/rizal_travels.png",
+        image: "src/kidlat_club.jpg",
         stamp: "EXPOSITION"
     },
     {
@@ -506,7 +498,7 @@ const experiencesData = [
             tone than Noli Me Tangere, depicting revolution though he personally remained committed to non-violent 
             change.</p>
         `,
-        image: "src/rizal_travels.png",
+        image: "src/brussels.webp",
         stamp: "BRUSSELS"
     },
     {
@@ -533,7 +525,7 @@ const experiencesData = [
             <p>While in Hong Kong, Rizal wrote the constitution for La Liga Filipina, a patriotic organization 
             he planned to establish in Manila.</p>
         `,
-        image: "src/rizal_travels.png",
+        image: "src/rizal_hongkong.webp",
         stamp: "HONGKONG"
     },
     {
@@ -558,7 +550,7 @@ const experiencesData = [
             <p>On July 6, 1892, Rizal went to Malacañang to meet Governor General Despujol. He was confronted 
             with charges of bringing "Pobres Frailes" leaflets from Hong Kong and dedicating El Fili to GOMBURZA.</p>
         `,
-        image: "src/rizal_travels.png",
+        image: "src/rizal_spyglasses.webp",
         stamp: "RETURN"
     },
     {
@@ -583,7 +575,7 @@ const experiencesData = [
             fruit trees.</p>
             
             <h4>Medical Practice</h4>
-            <p>Rizal rendered free services to the poor with self-concocted medicines from local plants. Wealthier 
+            <p>Rizal rendered free services to the poor with medicines from local plants. Wealthier 
             patients came from Mindanao, Laguna, Cebu, Panay, Negros, and Hong Kong. George Taufer brought 
             adopted daughter Josephine Bracken for ophthalmology expertise. In August 1893, Doña Teodora underwent 
             another eye surgery and stayed one and a half years. He constructed "Casitas de Salud" for patients 
@@ -617,7 +609,7 @@ const experiencesData = [
             
             <h4>Poetry - Mi Retiro</h4>
             <p>During Doña Teodora's stay, she requested poetry from her son. On October 22, 1895, Rizal sent 
-            "Mi Retiro" (My Retreat), a 25-stanza poem describing his serene exile life, acclaimed as one of 
+            "Mi Retiro" (My Retreat), a 25 stanza poem describing his serene exile life, acclaimed as one of 
             his best poems.</p>
             
             <h4>Josephine Bracken</h4>
@@ -649,7 +641,7 @@ const experiencesData = [
             <p>On July 31, 1896, Governor Blanco's approval for Rizal to go to Cuba marked the end of his 
             4-year exile. He expressed joy in "El Canto del Viajero" (Song of the Traveler). At midnight 
             July 31, Rizal, Josephine, sisters Josefa and Narcisa, niece Angelica, 3 nephews, and 6 pupils 
-            boarded steamer España. Almost all Dapitan folks came to bid farewell as the town brass band 
+            boarded steamer España. Almost all the Dapitan folks came to bid farewell as the town brass band 
             played Chopin's Funeral March. As the ship departed, Rizal gazed at Dapitan for the last time 
             and wrote in his diary: "I have been in that district for four years, 13 days and few hours."</p>
         `,
@@ -681,7 +673,7 @@ const experiencesData = [
             <p>On November 3, 1896, Rizal arrived in Manila and was brought directly to Fort Santiago under 
             heavy guard.</p>
         `,
-        image: "src/ph_spanish_war.jpg",
+        image: "src/rizal_return.jpg",
         stamp: "ARREST"
     },
     {
@@ -694,8 +686,8 @@ const experiencesData = [
             freedom.</p>
             
             <h4>Mock Trial</h4>
-            <p>Rizal was tried before a court-martial for rebellion, sedition, and conspiracy. His legal counsel 
-            was Luis Taviel de Andrade. The trial was predetermined—he was denied proper defense and presumed 
+            <p>Rizal was tried before a court martial for rebellion, sedition, and conspiracy. His legal counsel 
+            was Luis Taviel de Andrade. The trial was predetermined he was denied proper defense and presumed 
             guilty. Though he disavowed violent revolution and sought reforms within Spanish rule, his novels 
             and reputation made him a convenient scapegoat.</p>
             
@@ -707,7 +699,7 @@ const experiencesData = [
             <h4>Death Sentence</h4>
             <p>On December 26, 1896, Rizal was convicted on all three charges and sentenced to death.</p>
         `,
-        image: "src/rizal_execution.webp",
+        image: "src/rizal_trial.webp",
         stamp: "TRIAL"
     },
     {
@@ -767,7 +759,7 @@ const experiencesData = [
                 title: "A. Rizal's Virtues and Strengths",
                 content: `
                     <h4>Intellectual Brilliance</h4>
-                    <p>Rizal mastered 22 languages and excelled in medicine, literature, arts, and sciences. His polymath 
+                    <p>Rizal mastered different languages and excelled in medicine, literature, arts, and sciences. His polymath 
                     abilities enabled him to communicate ideas across cultures and disciplines, making his advocacy 
                     intellectually unassailable.</p>
                     
@@ -785,7 +777,7 @@ const experiencesData = [
                      for ordinary Filipinos. His actions matched his rhetoric, earning respect across social classes.</p>
                     
                     <h4>Discipline and Work Ethic</h4>
-                    <p>Rizal's prolific output—novels, essays, poetry, scientific papers—resulted from extraordinary discipline.
+                    <p>Rizal's prolific output—novels, essays, poetry, scientific papers have resulted from extraordinary discipline.
                      He maximized every opportunity for learning and productivity, even during exile.</p>
                 `,
                 image: "src/rizal_write.png",
@@ -800,10 +792,6 @@ const experiencesData = [
                     enlightenment alone could overturn centuries of oppression underestimated entrenched colonial interests
                      and the necessity of forceful resistance.</p>
                     
-                    <h4>Elitism and Class Bias</h4>
-                    <p>As an ilustrado, Rizal sometimes demonstrated class prejudices. He believed reforms should be led by 
-                    educated elites, showing limited faith in mass movements. His social circle remained largely confined to
-                     educated professionals.</p>
                     
                     <h4>Reluctance Toward Armed Revolution</h4>
                     <p>While his writings inspired revolutionaries, Rizal personally opposed armed uprising. This stance created 
@@ -828,7 +816,7 @@ const experiencesData = [
                 title: "C. Evolution of Character Over Time",
                 content: `
                     <h4>From Privileged Youth to Social Critic</h4>
-                    <p>Young Rizal enjoyed class privileges and excellent education. Gradually, witnessing injustices and 
+                    <p>Young Rizal enjoyed class privileges and excellent education, gradually witnessing injustices and 
                     studying abroad, he evolved from beneficiary of the colonial system to its most articulate critic.</p>
                     
                     <h4>From Reformist to Revolutionary Symbol</h4>
@@ -842,7 +830,7 @@ const experiencesData = [
                     
                     <h4>Deepening National Consciousness</h4>
                     <p>Rizal's identity evolved from "Spanish Filipino" seeking equal rights within empire to "Filipino" nationalist 
-                    envisioning an independent national identity. His historical research and writings helped construct Filipino national
+                    envisioning an independent national identity. His research and writings helped construct Filipino national
                      consciousness.</p>
                 `,
                 image: "src/rizal_luna_ventura.jpg",
@@ -889,7 +877,7 @@ const experiencesData = [
                     powerful than swords, awakening Filipino consciousness and exposing colonial injustices to international audiences.</p>
                     
                     <h4>Service Despite Exile</h4>
-                    <p>Rather than despair in Dapitan, Rizal served his community—teaching, healing, building infrastructure. 
+                    <p>Rather than despair in Dapitan, Rizal served his community teaching, healing, building infrastructure. 
                     He demonstrated that heroism lies not in grand gestures but in daily dedication to improving others' lives.</p>
                     
                     <h4>Principled Non-Violence</h4>
@@ -909,7 +897,7 @@ const experiencesData = [
                     <h4>The Ultimate Sacrifice</h4>
                     <p>Rizal's willingness to die for his ideals completed his transformation from reformist intellectual to 
                     national hero. His martyrdom proved more effective than his life's work in uniting Filipinos and legitimizing
-                     their struggle for independence. The very pitfalls he encountered—persecution, exile, execution—became the
+                     their struggle for independence. The very pitfalls he encountered—persecution, exile, execution became the
                      foundation of his enduring heroism.</p>
                 `,
                 image: "src/rizal_aura.webp",
